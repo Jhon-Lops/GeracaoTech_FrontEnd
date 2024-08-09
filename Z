@@ -1,0 +1,35 @@
+GIT e GITHUB
+
+** Main, branch principal onde criar as outras branchs
+
+** Quando TERMINAR os ttrabalhos da branch, salvar no git.
+     - Usado terminal
+
+        $ git status                (saber como ta a situação da branch)
+
+        $ git add .                 (caso esstiver tudo bem com as mudanças. // add .                        adc todas as mudançass ao stage. para um  mais                              especifica usar git add caminho/do/arquivo/)
+
+        $ git commit -m "texto commit"       (identificar  commit)
+
+        $ git push origin nomedabranch       (mandar pra o github,  origin só n                                     primeira vez)
+
+
+
+       //** OBS GITHUB: marge request => clicar verde, informando branch, mostra conteudo da branch, a branch será margeada => create pull request = > dar ok e voltar VS code.**//
+
+        **VS CODE**
+        Ir a linha azul abaixo indicando  o nome da branch e mudar pra main => fazzer o git pull
+
+        $ git pull
+
+
+     - Comandos a esquerda. 
+
+        ICONE OPEN FILE => 
+
+        OBS: STAGE CCHANGES ==  GIT ADD .
+        ESPEIFICA IR EM CIMA DO ARQUIVO QUE AS OPPÇOES VÃO APARECER
+
+        INPUT: COLOCAR A MENSAGEM CDO COMMIT, clicar no COMMIT após mensagem
+
+        

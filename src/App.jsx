@@ -1,7 +1,11 @@
-import HomePage from "./pages/HomePage"
+import { RoutesApp } from "./routes/RoutesApp"
 
 function App() {
-    return(<HomePage />)
+    return(
+        <RoutesApp />
+    )
 }
 
-export default App
+export default App;
+
+//
